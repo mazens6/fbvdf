@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+input[type="submit"]:hover{
+    background-color: brown;
+    transition: 0.4s;
+}
+
+
+
+.img img{
+    width: 250px;
+}
+
+.con1{
+    display: flex;
+    padding: 160px ;
+}
+
+
+
+.text1{
+    margin-left: 40px;
+    margin-top: 5px;
+}
+
+h4{
+    margin-left: 100px;
+    padding: 5px;
+    color: green;
+}
+
+.text2{
+    margin-left: -24px;
+    margin-top: 5px;
+}
+
+.text3{
+    margin-left: -25px;
+    margin-top: 5px;
+}
+
+.log2 h1{
+    text-align: end;
+    color: wheat;
+}
+
+
+.card-group{
+    margin: 5em;
+}
+
+.card{
+    padding: 10px;
+}
+
+
+
+
+.log2 img{
+    width: 500px;
+    margin-left: 50px;
+    margin-top: -350px;
+}
+
+.textp{
+    text-align: end;
+}
+
+.textp h2{
+    width: 40%;
+    margin-left: 700px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifs;
+}
+
+.textp h1{
+    margin-top: 280px;
+    margin-right: 110px;
+    font-size: 2.5em;
+}
+
+.log2{
+    margin-bottom: 150px;
+}
+
+.btn5{
+    margin-right: 100px;
+}
+
+footer{
+    background-color: rgb(31, 30, 30);
+    color: wheat;
+    text-align: center;
+    
+}
+
+footer img{
+    margin-top: 14px;
+    width: 60px;
+}
+
+footer img:hover{
+    transform: translateX(2px);
+}
+
+.log2 img{
+    width: 300px;
+    border-radius: 15px 0px 15px 0px;
+}
